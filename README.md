@@ -9,3 +9,7 @@ Help a coffee manufacturer analyze coffee sales and customer order data from 201
 - Multiple IF functions
 - Pivot Tables and Pivot Charts
 - Dashboard build
+
+## Final Dashboard
+
+![Screenshot 2025-02-02 120605](https://github.com/user-attachments/assets/179fe4b9-083f-487b-a913-9ed1f6e4ae0c)
